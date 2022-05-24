@@ -4,8 +4,8 @@ The information scraped includes:
 -Address
 -Number of bedrooms
 -Number of bathrooms
--Name of agent
--Area code
--Phone number of agent
+-Ownership type
+-Parking space
+-Size of land
 -Price
 The website is https://www.realtor.ca/
